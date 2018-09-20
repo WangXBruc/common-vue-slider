@@ -36,10 +36,10 @@
        */
       return{
         imgs:[
-          {url: '../../static/images/1.jpg', index: 0},
-          {url: '../../static/images/2.jpg', index: 1},
-          {url: '../../static/images/3.jpg', index: 2},
-          {url: '../../static/images/4.jpg', index: 3}],
+          {url: 'https://github.com/WangXBruc/common-vue-slider/blob/master/images/1.jpg', index: 0},
+          {url: 'https://github.com/WangXBruc/common-vue-slider/blob/master/images/2.jpg', index: 1},
+          {url: 'https://github.com/WangXBruc/common-vue-slider/blob/master/images/3.jpg', index: 2},
+          {url: 'https://github.com/WangXBruc/common-vue-slider/blob/master/images/4.jpg', index: 3}],
         currentIndex: 0,
         buttons: [0,1,2,3],
         timer: null
